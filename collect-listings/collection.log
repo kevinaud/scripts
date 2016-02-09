@@ -1,0 +1,85 @@
+ 
+ 
+Collection sarted at Sun Jan 17 16:02:18 CST 2016
+*************************************************************
+ 
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+ 
+-------------------------------------------------------------
+ 
+Runtime: 0 minutes and 2 seconds
+Collection ended at Sun Jan 17 16:02:20 CST 2016
+ 
+*************************************************************
+ 
+ 
+Collection sarted at Sun Jan 17 16:03:16 CST 2016
+*************************************************************
+ 
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+ 
+-------------------------------------------------------------
+ 
+Runtime: 0 minutes and 10 seconds
+Collection ended at Sun Jan 17 16:03:26 CST 2016
+ 
+*************************************************************
+ 
+ 
+Collection sarted at Sun Jan 17 16:05:11 CST 2016
+*************************************************************
+ 
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+ 
+-------------------------------------------------------------
+ 
+Runtime: 1 minutes and 36 seconds
+Collection ended at Sun Jan 17 16:06:47 CST 2016
+ 
+*************************************************************
+ 
+ 
+Collection started at Sun Jan 17 16:36:24 CST 2016
+*************************************************************
+ 
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+PHP Notice:  Trying to get property of non-object in /usr/local/bin/script/collect.php on line 49
+ 
+-------------------------------------------------------------
+ 
+Runtime: 1 minutes and 6 seconds
+Collection ended at Sun Jan 17 16:37:30 CST 2016
+ 
+*************************************************************
+ 
+ 
+*************************************************************
+ 
+Collection started at Sun Jan 17 19:08:46 CST 2016
+ 
+-------------------------------------------------------------
+ 
+move: ../../../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1453079335"
+}
+{
+    "BatchPredictionId": "bp-fauq-1453079335"
+}
+ 
+-------------------------------------------------------------
+ 
+Runtime: 0 minutes and 12 seconds
+ 
+*************************************************************

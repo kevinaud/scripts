@@ -1,0 +1,43 @@
+{
+  "version" : "1.0",
+  "rowId" : "id",
+  "rowWeight" : null,
+  "targetAttributeName" : "job_field_id",
+  "dataFormat" : "CSV",
+  "dataFileContainsHeader" : false,
+  "attributes" : [ {
+    "attributeName" : "id",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "job_field_id",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "title",
+    "attributeType" : "TEXT"
+  }, {
+    "attributeName" : "company",
+    "attributeType" : "TEXT"
+  }, {
+    "attributeName" : "description",
+    "attributeType" : "TEXT"
+  }, {
+    "attributeName" : "city_id",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "county_id",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "state_id",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "phone_number",
+    "attributeType" : "TEXT"
+  }, {
+    "attributeName" : "date_posted",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "url",
+    "attributeType" : "TEXT"
+  } ],
+  "excludedAttributeNames" : [ ]
+}

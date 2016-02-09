@@ -1,0 +1,1274 @@
+ 
+ 
+*************************************************************
+ 
+Collection started at Wed Jan 20 01:41:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+Could not open input file: ./collect.php
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+/home/ec2-user/crons/collect-listings/collection_script: line 48: ./datasource_script: No such file or directory
+/home/ec2-user/crons/collect-listings/collection_script: line 50: ./retrieval_script: No such file or directory
+Could not open input file: parse_predictions.php
+ 
+-------------------------------------------------------------
+ 
+Runtime: 0 minutes and 1 seconds
+ 
+*************************************************************
+ 
+ 
+*************************************************************
+ 
+Collection started at Wed Jan 20 01:55:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1453254915"
+}
+{
+    "BatchPredictionId": "bp-fauq-1453254915"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1453254915-unsorted.csv.gz to ../../tmp/bp-fauq-1453254915-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 18 seconds
+ 
+*************************************************************
+ 
+ 
+*************************************************************
+ 
+Collection started at Wed Jan 20 07:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1453273215"
+}
+{
+    "BatchPredictionId": "bp-fauq-1453273215"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1453273215-unsorted.csv.gz to ../../tmp/bp-fauq-1453273215-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 19 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Thu Jan 21 07:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1453359620"
+}
+{
+    "BatchPredictionId": "bp-fauq-1453359620"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1453359620-unsorted.csv.gz to ../../tmp/bp-fauq-1453359620-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 23 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Fri Jan 22 07:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1453446014"
+}
+{
+    "BatchPredictionId": "bp-fauq-1453446014"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1453446014-unsorted.csv.gz to ../../tmp/bp-fauq-1453446014-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 18 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Sat Jan 23 07:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1453532415"
+}
+{
+    "BatchPredictionId": "bp-fauq-1453532415"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1453532415-unsorted.csv.gz to ../../tmp/bp-fauq-1453532415-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 19 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Sun Jan 24 07:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1453618814"
+}
+{
+    "BatchPredictionId": "bp-fauq-1453618814"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1453618814-unsorted.csv.gz to ../../tmp/bp-fauq-1453618814-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 18 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Mon Jan 25 07:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1453705215"
+}
+{
+    "BatchPredictionId": "bp-fauq-1453705215"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1453705215-unsorted.csv.gz to ../../tmp/bp-fauq-1453705215-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 19 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Wed Jan 27 00:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1453852815"
+}
+{
+    "BatchPredictionId": "bp-fauq-1453852815"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1453852815-unsorted.csv.gz to ../../tmp/bp-fauq-1453852815-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 18 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Thu Jan 28 00:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1453939216"
+}
+{
+    "BatchPredictionId": "bp-fauq-1453939216"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1453939216-unsorted.csv.gz to ../../tmp/bp-fauq-1453939216-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 21 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Fri Jan 29 00:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1454025616"
+}
+{
+    "BatchPredictionId": "bp-fauq-1454025616"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1454025616-unsorted.csv.gz to ../../tmp/bp-fauq-1454025616-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 21 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Sat Jan 30 00:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1454112014"
+}
+{
+    "BatchPredictionId": "bp-fauq-1454112014"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1454112014-unsorted.csv.gz to ../../tmp/bp-fauq-1454112014-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 18 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Sun Jan 31 00:00:02 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1454198415"
+}
+{
+    "BatchPredictionId": "bp-fauq-1454198415"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1454198415-unsorted.csv.gz to ../../tmp/bp-fauq-1454198415-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 21 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Mon Feb  1 00:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1454284814"
+}
+{
+    "BatchPredictionId": "bp-fauq-1454284814"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1454284814-unsorted.csv.gz to ../../tmp/bp-fauq-1454284814-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 19 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Tue Feb  2 00:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1454371216"
+}
+{
+    "BatchPredictionId": "bp-fauq-1454371216"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1454371216-unsorted.csv.gz to ../../tmp/bp-fauq-1454371216-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 21 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Wed Feb  3 00:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1454457615"
+}
+{
+    "BatchPredictionId": "bp-fauq-1454457615"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1454457615-unsorted.csv.gz to ../../tmp/bp-fauq-1454457615-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 18 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Thu Feb  4 05:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+{
+    "DataSourceId": "ds-fauq-1454562014"
+}
+{
+    "BatchPredictionId": "bp-fauq-1454562014"
+}
+download: s3://fauquierlistings/predictions/batch-prediction/result/bp-fauq-1454562014-unsorted.csv.gz to ../../tmp/bp-fauq-1454562014-unsorted.csv.gz
+ 
+-------------------------------------------------------------
+ 
+Runtime: 5 minutes and 18 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Fri Feb  5 00:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+Could not open input file: ./collect.php
+Could not open input file: ./sort_identical.php
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+/home/ec2-user/crons/collect-listings/collection_script: line 52: ./datasource_script: No such file or directory
+/home/ec2-user/crons/collect-listings/collection_script: line 54: ./retrieval_script: No such file or directory
+Could not open input file: parse_predictions.php
+ 
+-------------------------------------------------------------
+ 
+Runtime: 0 minutes and 2 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Sat Feb  6 00:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+Could not open input file: ./collect.php
+Could not open input file: ./sort_identical.php
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+/home/ec2-user/crons/collect-listings/collection_script: line 52: ./datasource_script: No such file or directory
+/home/ec2-user/crons/collect-listings/collection_script: line 54: ./retrieval_script: No such file or directory
+Could not open input file: parse_predictions.php
+ 
+-------------------------------------------------------------
+ 
+Runtime: 0 minutes and 1 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Sun Feb  7 00:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+Could not open input file: ./collect.php
+Could not open input file: ./sort_identical.php
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+/home/ec2-user/crons/collect-listings/collection_script: line 52: ./datasource_script: No such file or directory
+/home/ec2-user/crons/collect-listings/collection_script: line 54: ./retrieval_script: No such file or directory
+Could not open input file: parse_predictions.php
+ 
+-------------------------------------------------------------
+ 
+Runtime: 0 minutes and 2 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Mon Feb  8 00:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+Could not open input file: ./collect.php
+Could not open input file: ./sort_identical.php
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+/home/ec2-user/crons/collect-listings/collection_script: line 52: ./datasource_script: No such file or directory
+/home/ec2-user/crons/collect-listings/collection_script: line 54: ./retrieval_script: No such file or directory
+Could not open input file: parse_predictions.php
+ 
+-------------------------------------------------------------
+ 
+Runtime: 0 minutes and 1 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found
+ 
+ 
+*************************************************************
+ 
+Collection started at Tue Feb  9 00:00:01 UTC 2016
+ 
+-------------------------------------------------------------
+ 
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+PHP Notice:  Trying to get property of non-object in /home/ec2-user/crons/collect-listings/collect.php on line 50
+IDENTICAL: 24739
+IDENTICAL: 24741
+IDENTICAL: 24742
+IDENTICAL: 24743
+IDENTICAL: 24744
+IDENTICAL: 24745
+IDENTICAL: 24746
+IDENTICAL: 24747
+IDENTICAL: 24750
+IDENTICAL: 24751
+IDENTICAL: 24752
+IDENTICAL: 24749
+IDENTICAL: 24753
+IDENTICAL: 24754
+IDENTICAL: 24755
+IDENTICAL: 24756
+IDENTICAL: 24757
+IDENTICAL: 24758
+IDENTICAL: 24759
+IDENTICAL: 24765
+IDENTICAL: 24788
+IDENTICAL: 24782
+IDENTICAL: 24779
+IDENTICAL: 24770
+IDENTICAL: 24810
+IDENTICAL: 24793
+IDENTICAL: 24784
+IDENTICAL: 24791
+IDENTICAL: 24828
+IDENTICAL: 24805
+IDENTICAL: 24811
+IDENTICAL: 24790
+IDENTICAL: 24787
+IDENTICAL: 24795
+IDENTICAL: 24799
+IDENTICAL: 24792
+IDENTICAL: 24812
+IDENTICAL: 24826
+IDENTICAL: 24800
+IDENTICAL: 24801
+IDENTICAL: 24802
+IDENTICAL: 24819
+IDENTICAL: 24808
+IDENTICAL: 24952
+IDENTICAL: 24780
+IDENTICAL: 24785
+IDENTICAL: 24814
+IDENTICAL: 24815
+IDENTICAL: 24804
+IDENTICAL: 24762
+IDENTICAL: 24933
+IDENTICAL: 24813
+IDENTICAL: 24821
+IDENTICAL: 24820
+IDENTICAL: 24767
+IDENTICAL: 24809
+IDENTICAL: 24817
+IDENTICAL: 24823
+IDENTICAL: 24825
+IDENTICAL: 24807
+IDENTICAL: 24822
+IDENTICAL: 24877
+IDENTICAL: 24832
+IDENTICAL: 24833
+IDENTICAL: 24859
+IDENTICAL: 24831
+IDENTICAL: 24837
+IDENTICAL: 24830
+IDENTICAL: 24839
+IDENTICAL: 24829
+IDENTICAL: 24838
+IDENTICAL: 24836
+IDENTICAL: 24840
+IDENTICAL: 24851
+IDENTICAL: 24878
+IDENTICAL: 24880
+IDENTICAL: 24842
+IDENTICAL: 24871
+IDENTICAL: 24847
+IDENTICAL: 24931
+IDENTICAL: 24771
+IDENTICAL: 24848
+IDENTICAL: 24893
+IDENTICAL: 24882
+IDENTICAL: 24921
+IDENTICAL: 24863
+IDENTICAL: 24846
+IDENTICAL: 24824
+IDENTICAL: 24849
+IDENTICAL: 24844
+IDENTICAL: 24945
+IDENTICAL: 24892
+IDENTICAL: 24874
+IDENTICAL: 24861
+IDENTICAL: 24858
+IDENTICAL: 24864
+IDENTICAL: 24866
+IDENTICAL: 24860
+IDENTICAL: 24898
+IDENTICAL: 24869
+IDENTICAL: 24868
+IDENTICAL: 24855
+IDENTICAL: 24904
+IDENTICAL: 24873
+IDENTICAL: 24854
+IDENTICAL: 24856
+IDENTICAL: 24881
+IDENTICAL: 24875
+IDENTICAL: 24936
+IDENTICAL: 24919
+IDENTICAL: 24867
+IDENTICAL: 24883
+IDENTICAL: 24894
+IDENTICAL: 24876
+IDENTICAL: 24886
+IDENTICAL: 24901
+IDENTICAL: 24783
+IDENTICAL: 24890
+IDENTICAL: 24887
+IDENTICAL: 24903
+IDENTICAL: 24927
+IDENTICAL: 24850
+IDENTICAL: 24913
+IDENTICAL: 24905
+IDENTICAL: 24895
+IDENTICAL: 24888
+IDENTICAL: 24896
+IDENTICAL: 24911
+IDENTICAL: 24954
+IDENTICAL: 24910
+IDENTICAL: 24915
+IDENTICAL: 24944
+IDENTICAL: 24923
+IDENTICAL: 24926
+IDENTICAL: 24845
+IDENTICAL: 24928
+IDENTICAL: 24938
+IDENTICAL: 24918
+IDENTICAL: 24917
+IDENTICAL: 24953
+IDENTICAL: 24925
+IDENTICAL: 24930
+IDENTICAL: 24939
+IDENTICAL: 24932
+IDENTICAL: 24950
+IDENTICAL: 25024
+IDENTICAL: 24900
+IDENTICAL: 24943
+IDENTICAL: 24934
+IDENTICAL: 24908
+IDENTICAL: 24964
+IDENTICAL: 24969
+IDENTICAL: 24962
+IDENTICAL: 24961
+IDENTICAL: 24947
+IDENTICAL: 24937
+IDENTICAL: 24922
+IDENTICAL: 24902
+IDENTICAL: 24963
+IDENTICAL: 24951
+IDENTICAL: 24949
+IDENTICAL: 24935
+IDENTICAL: 24941
+IDENTICAL: 24946
+IDENTICAL: 24942
+IDENTICAL: 24965
+IDENTICAL: 24966
+IDENTICAL: 24967
+IDENTICAL: 24956
+IDENTICAL: 24955
+IDENTICAL: 24971
+IDENTICAL: 24968
+IDENTICAL: 24970
+IDENTICAL: 24948
+IDENTICAL: 24959
+IDENTICAL: 24983
+IDENTICAL: 24958
+IDENTICAL: 24891
+IDENTICAL: 24914
+IDENTICAL: 24986
+IDENTICAL: 24988
+IDENTICAL: 24974
+IDENTICAL: 24984
+IDENTICAL: 24992
+IDENTICAL: 24976
+IDENTICAL: 24972
+IDENTICAL: 24973
+IDENTICAL: 24960
+IDENTICAL: 24990
+IDENTICAL: 24977
+IDENTICAL: 24985
+IDENTICAL: 24978
+IDENTICAL: 24989
+IDENTICAL: 24987
+IDENTICAL: 25009
+IDENTICAL: 25023
+IDENTICAL: 24993
+IDENTICAL: 24994
+IDENTICAL: 24996
+IDENTICAL: 25011
+IDENTICAL: 25000
+IDENTICAL: 25042
+IDENTICAL: 24982
+IDENTICAL: 25003
+IDENTICAL: 25031
+IDENTICAL: 25006
+IDENTICAL: 25008
+IDENTICAL: 25007
+IDENTICAL: 25005
+IDENTICAL: 25036
+IDENTICAL: 24998
+IDENTICAL: 25061
+IDENTICAL: 25025
+IDENTICAL: 25017
+IDENTICAL: 24999
+IDENTICAL: 25022
+IDENTICAL: 25038
+IDENTICAL: 25021
+IDENTICAL: 24991
+IDENTICAL: 25020
+IDENTICAL: 25010
+IDENTICAL: 25002
+IDENTICAL: 25028
+IDENTICAL: 25013
+IDENTICAL: 25029
+IDENTICAL: 25027
+IDENTICAL: 25016
+IDENTICAL: 25001
+IDENTICAL: 25073
+IDENTICAL: 25041
+IDENTICAL: 25034
+IDENTICAL: 25015
+IDENTICAL: 24997
+IDENTICAL: 25054
+IDENTICAL: 25030
+IDENTICAL: 25032
+IDENTICAL: 25018
+IDENTICAL: 25037
+IDENTICAL: 25019
+IDENTICAL: 25048
+IDENTICAL: 25026
+IDENTICAL: 25055
+IDENTICAL: 25014
+IDENTICAL: 24975
+IDENTICAL: 25049
+IDENTICAL: 25040
+IDENTICAL: 25071
+IDENTICAL: 25059
+IDENTICAL: 25074
+IDENTICAL: 25069
+IDENTICAL: 25043
+IDENTICAL: 25044
+IDENTICAL: 25051
+IDENTICAL: 25047
+IDENTICAL: 25056
+IDENTICAL: 25060
+IDENTICAL: 25052
+IDENTICAL: 25066
+IDENTICAL: 25053
+IDENTICAL: 25039
+IDENTICAL: 25132
+IDENTICAL: 25067
+IDENTICAL: 24872
+IDENTICAL: 25072
+IDENTICAL: 24798
+IDENTICAL: 25075
+IDENTICAL: 25062
+IDENTICAL: 25035
+IDENTICAL: 25050
+IDENTICAL: 25077
+IDENTICAL: 25058
+IDENTICAL: 25070
+IDENTICAL: 25064
+IDENTICAL: 25046
+IDENTICAL: 25076
+IDENTICAL: 25068
+IDENTICAL: 25082
+IDENTICAL: 25065
+IDENTICAL: 25095
+IDENTICAL: 25033
+IDENTICAL: 25078
+IDENTICAL: 25086
+IDENTICAL: 25111
+IDENTICAL: 25079
+IDENTICAL: 25081
+IDENTICAL: 25094
+IDENTICAL: 25092
+IDENTICAL: 25122
+IDENTICAL: 25083
+IDENTICAL: 24995
+IDENTICAL: 25098
+IDENTICAL: 25090
+IDENTICAL: 24929
+IDENTICAL: 25093
+IDENTICAL: 25087
+IDENTICAL: 25101
+IDENTICAL: 25107
+IDENTICAL: 25091
+IDENTICAL: 25108
+IDENTICAL: 25102
+IDENTICAL: 25088
+IDENTICAL: 25105
+IDENTICAL: 25103
+IDENTICAL: 25084
+IDENTICAL: 25089
+IDENTICAL: 25100
+IDENTICAL: 25097
+IDENTICAL: 25104
+IDENTICAL: 25106
+IDENTICAL: 25117
+IDENTICAL: 25096
+IDENTICAL: 25109
+IDENTICAL: 25113
+IDENTICAL: 25115
+IDENTICAL: 25110
+IDENTICAL: 25063
+IDENTICAL: 25085
+IDENTICAL: 25116
+IDENTICAL: 25099
+IDENTICAL: 25118
+IDENTICAL: 25121
+IDENTICAL: 25112
+IDENTICAL: 25120
+IDENTICAL: 25126
+IDENTICAL: 25125
+IDENTICAL: 25127
+IDENTICAL: 25124
+IDENTICAL: 25119
+IDENTICAL: 25130
+IDENTICAL: 25129
+IDENTICAL: 25128
+IDENTICAL: 25123
+IDENTICAL: 25131
+IDENTICAL: 25133
+IDENTICAL: 25134
+IDENTICAL: 25137
+IDENTICAL: 25139
+IDENTICAL: 25142
+IDENTICAL: 25138
+IDENTICAL: 25140
+IDENTICAL: 25143
+IDENTICAL: 25144
+IDENTICAL: 25148
+IDENTICAL: 25145
+IDENTICAL: 25155
+IDENTICAL: 25146
+IDENTICAL: 25167
+IDENTICAL: 25158
+IDENTICAL: 25147
+IDENTICAL: 25152
+IDENTICAL: 25162
+IDENTICAL: 25163
+IDENTICAL: 25159
+IDENTICAL: 25160
+IDENTICAL: 25164
+IDENTICAL: 25153
+IDENTICAL: 25150
+IDENTICAL: 25161
+IDENTICAL: 25157
+IDENTICAL: 25151
+IDENTICAL: 25168
+IDENTICAL: 25171
+IDENTICAL: 25165
+IDENTICAL: 25166
+IDENTICAL: 25169
+IDENTICAL: 25170
+IDENTICAL: 25175
+IDENTICAL: 25173
+IDENTICAL: 25176
+IDENTICAL: 25174
+IDENTICAL: 25177
+IDENTICAL: 25178
+IDENTICAL: 25149
+IDENTICAL: 25179
+IDENTICAL: 25180
+IDENTICAL: 25183
+IDENTICAL: 25182
+IDENTICAL: 25184
+IDENTICAL: 25185
+IDENTICAL: 25186
+IDENTICAL: 25187
+IDENTICAL: 25188
+IDENTICAL: 25189
+IDENTICAL: 25191
+IDENTICAL: 25192
+IDENTICAL: 25190
+IDENTICAL: 25193
+IDENTICAL: 25194
+IDENTICAL: 25195
+IDENTICAL: 25196
+IDENTICAL: 25197
+IDENTICAL: 25198
+IDENTICAL: 25199
+IDENTICAL: 25200
+IDENTICAL: 25201
+IDENTICAL: 25202
+IDENTICAL: 25203
+IDENTICAL: 25206
+IDENTICAL: 25207
+IDENTICAL: 25205
+IDENTICAL: 25208
+IDENTICAL: 25209
+IDENTICAL: 25210
+IDENTICAL: 25211
+IDENTICAL: 25212
+IDENTICAL: 25213
+IDENTICAL: 25214
+IDENTICAL: 25215
+IDENTICAL: 25216
+IDENTICAL: 25217
+IDENTICAL: 25218
+IDENTICAL: 25219
+IDENTICAL: 25221
+IDENTICAL: 25222
+IDENTICAL: 25224
+IDENTICAL: 25225
+IDENTICAL: 25223
+IDENTICAL: 25226
+IDENTICAL: 25227
+IDENTICAL: 25228
+IDENTICAL: 25229
+IDENTICAL: 25230
+IDENTICAL: 25231
+IDENTICAL: 25232
+IDENTICAL: 25233
+IDENTICAL: 25234
+IDENTICAL: 25235
+IDENTICAL: 25236
+IDENTICAL: 25239
+IDENTICAL: 25240
+IDENTICAL: 25241
+IDENTICAL: 25242
+IDENTICAL: 25238
+IDENTICAL: 25243
+IDENTICAL: 25244
+IDENTICAL: 25245
+IDENTICAL: 25246
+IDENTICAL: 25247
+IDENTICAL: 25248
+IDENTICAL: 25249
+IDENTICAL: 25250
+IDENTICAL: 25251
+IDENTICAL: 25253
+IDENTICAL: 25256
+IDENTICAL: 25257
+IDENTICAL: 25252
+IDENTICAL: 25255
+IDENTICAL: 25258
+IDENTICAL: 25261
+IDENTICAL: 25259
+IDENTICAL: 25260
+IDENTICAL: 25262
+IDENTICAL: 25263
+IDENTICAL: 25264
+IDENTICAL: 25265
+IDENTICAL: 25266
+IDENTICAL: 25267
+IDENTICAL: 25268
+IDENTICAL: 25269
+IDENTICAL: 25272
+IDENTICAL: 25273
+IDENTICAL: 25274
+IDENTICAL: 25271
+IDENTICAL: 25275
+IDENTICAL: 25276
+IDENTICAL: 25277
+IDENTICAL: 25278
+IDENTICAL: 25279
+IDENTICAL: 25280
+IDENTICAL: 25281
+IDENTICAL: 25282
+IDENTICAL: 25283
+IDENTICAL: 25284
+IDENTICAL: 25285
+IDENTICAL: 25288
+IDENTICAL: 25289
+IDENTICAL: 25290
+IDENTICAL: 25287
+IDENTICAL: 25291
+IDENTICAL: 25292
+IDENTICAL: 25293
+IDENTICAL: 25294
+IDENTICAL: 25295
+IDENTICAL: 25296
+IDENTICAL: 25297
+IDENTICAL: 25299
+IDENTICAL: 25301
+IDENTICAL: 25303
+IDENTICAL: 25305
+IDENTICAL: 25308
+IDENTICAL: 25306
+IDENTICAL: 25311
+IDENTICAL: 25329
+IDENTICAL: 25310
+IDENTICAL: 25312
+IDENTICAL: 25309
+IDENTICAL: 25313
+IDENTICAL: 25314
+IDENTICAL: 25316
+IDENTICAL: 25317
+IDENTICAL: 25318
+IDENTICAL: 25320
+IDENTICAL: 25319
+IDENTICAL: 25322
+IDENTICAL: 25315
+IDENTICAL: 25323
+IDENTICAL: 25324
+IDENTICAL: 25325
+IDENTICAL: 25327
+IDENTICAL: 25331
+IDENTICAL: 25330
+IDENTICAL: 25326
+IDENTICAL: 25328
+IDENTICAL: 25332
+IDENTICAL: 25333
+IDENTICAL: 25334
+IDENTICAL: 25335
+IDENTICAL: 25337
+IDENTICAL: 25339
+IDENTICAL: 25340
+IDENTICAL: 25341
+IDENTICAL: 25342
+IDENTICAL: 25338
+IDENTICAL: 25344
+IDENTICAL: 25345
+IDENTICAL: 25343
+IDENTICAL: 25346
+IDENTICAL: 25347
+IDENTICAL: 25348
+IDENTICAL: 25349
+IDENTICAL: 25350
+IDENTICAL: 25351
+IDENTICAL: 25352
+IDENTICAL: 25353
+IDENTICAL: 25355
+IDENTICAL: 25354
+IDENTICAL: 25356
+IDENTICAL: 25357
+IDENTICAL: 25358
+IDENTICAL: 25361
+IDENTICAL: 25367
+IDENTICAL: 25359
+IDENTICAL: 25360
+IDENTICAL: 25362
+IDENTICAL: 25363
+IDENTICAL: 25365
+IDENTICAL: 25366
+IDENTICAL: 25368
+IDENTICAL: 25364
+IDENTICAL: 25370
+IDENTICAL: 25369
+IDENTICAL: 25371
+IDENTICAL: 25372
+IDENTICAL: 25373
+IDENTICAL: 25374
+IDENTICAL: 25375
+IDENTICAL: 25376
+IDENTICAL: 25377
+IDENTICAL: 25378
+IDENTICAL: 25379
+IDENTICAL: 25380
+IDENTICAL: 25383
+IDENTICAL: 25384
+IDENTICAL: 25382
+IDENTICAL: 25385
+IDENTICAL: 25386
+IDENTICAL: 25387
+IDENTICAL: 25388
+IDENTICAL: 25389
+IDENTICAL: 25390
+IDENTICAL: 25391
+IDENTICAL: 25392
+IDENTICAL: 25396
+IDENTICAL: 25398
+IDENTICAL: 25393
+IDENTICAL: 25394
+IDENTICAL: 25399
+IDENTICAL: 25397
+IDENTICAL: 25400
+IDENTICAL: 25395
+IDENTICAL: 25403
+IDENTICAL: 25404
+IDENTICAL: 25401
+IDENTICAL: 25402
+IDENTICAL: 25405
+IDENTICAL: 25406
+IDENTICAL: 25407
+IDENTICAL: 25408
+IDENTICAL: 25410
+IDENTICAL: 25411
+IDENTICAL: 25415
+IDENTICAL: 25416
+IDENTICAL: 25414
+IDENTICAL: 25417
+IDENTICAL: 25419
+IDENTICAL: 25418
+IDENTICAL: 25420
+IDENTICAL: 25421
+IDENTICAL: 25422
+IDENTICAL: 25423
+IDENTICAL: 25424
+IDENTICAL: 25425
+IDENTICAL: 25426
+IDENTICAL: 25428
+IDENTICAL: 25431
+IDENTICAL: 25432
+IDENTICAL: 25433
+IDENTICAL: 25430
+IDENTICAL: 25434
+IDENTICAL: 25435
+IDENTICAL: 25436
+IDENTICAL: 25437
+IDENTICAL: 25438
+IDENTICAL: 25439
+IDENTICAL: 25440
+IDENTICAL: 24781
+IDENTICAL: 24776
+IDENTICAL: 24769
+IDENTICAL: 24884
+IDENTICAL: 24786
+IDENTICAL: 24789
+IDENTICAL: 24862
+IDENTICAL: 24870
+IDENTICAL: 24907
+IDENTICAL: 24920
+IDENTICAL: 24909
+IDENTICAL: 24806
+IDENTICAL: 24924
+IDENTICAL: 25045
+IDENTICAL: 25114
+IDENTICAL: 25181
+IDENTICAL: 25270
+IDENTICAL: 25298
+IDENTICAL: 25321
+move: ../../tmp/unsorted.csv to s3://fauquierlistings/unsorted/unsorted.csv
+/home/ec2-user/crons/collect-listings/collection_script: line 52: ./datasource_script: No such file or directory
+/home/ec2-user/crons/collect-listings/collection_script: line 54: ./retrieval_script: No such file or directory
+Could not open input file: parse_predictions.php
+ 
+-------------------------------------------------------------
+ 
+Runtime: 0 minutes and 21 seconds
+ 
+*************************************************************
+/bin/sh: ec2-user: command not found

@@ -1,0 +1,4 @@
+sleep 5m
+
+aws s3 cp s3://fauquierlistings/predictions/batch-prediction/result/$1-unsorted.csv.gz /tmp
+gzip -d /tmp/$1-unsorted.csv.gz

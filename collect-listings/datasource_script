@@ -1,0 +1,7 @@
+create_ds_skeleton="{\"DataSourceId\":\"$1\",\"DataSourceName\":\"$1\",\"DataSpec\":{\"DataLocationS3\":\"s3://fauquierlistings/unsorted/unsorted.csv\",\"DataSchemaLocationS3\":\"s3://fauquierlistings/unsorted/.schema\"}}"
+
+aws machinelearning create-data-source-from-s3 --cli-input-json $create_ds_skeleton
+
+create_prediction_skeleton="{\"BatchPredictionId\":\"$2\",\"MLModelId\":\"ml-H0JaWnnRoK0\",\"BatchPredictionDataSourceId\":\"$1\",\"OutputUri\":\"s3://fauquierlistings/predictions/\"}"
+
+aws machinelearning create-batch-prediction --cli-input-json $create_prediction_skeleton

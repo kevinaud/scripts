@@ -1,0 +1,92 @@
+#! /bin/sh
+
+dbUser="root"
+dbPass="59Hk9akq9KstUx2L"
+
+calc_duration(){
+	echo "Runtime: $(($1 / 60)) minutes and $(($1 % 60)) seconds"
+}
+
+start_output(){
+	SECONDS=0
+
+	echo " "
+	echo " "
+	echo "*************************************************************"
+	echo " "
+	echo "Collection started at $(date)"
+	echo " "
+	echo "-------------------------------------------------------------"
+	echo " "
+}
+
+end_output(){
+	echo " "
+	echo "-------------------------------------------------------------"
+	echo " "
+	calc_duration $SECONDS
+	echo " "
+	echo "*************************************************************"
+}
+
+start_output
+
+mysql -u$dbUser -p$dbPass jobocracy -e "DELETE FROM job"
+php /home/ec2-user/crons/collect-listings/collect.php 
+
+mysql -u$dbUser -p$dbPass jobocracy -e "SELECT id, job_field_id, title, company, description, city_id, county_id, state_id, phone_number, date_posted, url FROM job WHERE human_reviewed=0 INTO OUTFILE '/tmp/unsorted.csv' FIELDS ENCLOSED BY '\"' TERMINATED BY ',' LINES TERMINATED BY '\n'"
+
+# UPLOAD TO S3
+aws s3 mv /tmp/unsorted.csv s3://fauquierlistings/unsorted/
+
+# GENERATE TIMESTAMP TO USE IN DATASOURCE NAME
+timestamp=$(date +%s)
+
+ds_id="ds-fauq-$timestamp"
+bp_id="bp-fauq-$timestamp"
+
+# CREATE DATASOURCE AND QUERY BATCH PREDICTION
+./datasource_script $ds_id $bp_id
+
+./retrieval_script $bp_id
+
+php -q parse_predictions.php $bp_id
+
+mysqldump -uroot -p59Hk9akq9KstUx2L jobocracy job | mysql -h jobocracy-mariadb.cj2dmqgpebvk.us-east-1.rds.amazonaws.com  -ujobocracy_admin -p5xkb9vqnt4 jobocracy
+
+# update job_field_id on redundant jobs using previously sorted listings
+php /home/ec2-user/crons/collect-listings/sort_identical.php
+
+end_output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
